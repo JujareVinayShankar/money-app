@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  justify-content: space-around;
+  font-size: 14px;
+  border: 1px solid #d7dfe9;
+}
+
+.history-side {
+  width: 90px;
+}
+
+.a {
+  margin-left: 10px;
+}
+.button {
+  cursor: none;
+  border: none;
+  background-color: transparent;
+}
+
+.delete-icon {
+  width: 20px;
+}
